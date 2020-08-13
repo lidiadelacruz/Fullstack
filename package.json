@@ -1,0 +1,22 @@
+{
+  "name": "builders-checkpoint",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "testem"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FullstackAcademy/Builders-TestFirst.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/FullstackAcademy/Builders-TestFirst/issues"
+  },
+  "homepage": "https://github.com/FullstackAcademy/Builders-TestFirst#readme",
+  "devDependencies": {
+    "testem": "^2.16.0"
+  }
+}
